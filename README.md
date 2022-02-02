@@ -1,6 +1,9 @@
 # Real time bus tracking Excercise
 ## Description
 In this excercise we track all the bus stops between Harvard and MIT. We use external api from mapbox. It shows a little animation of where the buses stop between the two stops.
+
+<a href="https://ankitachauhan166.github.io/bustracker/"> Bus Tracker Demo</a>
+
 ## How to run
 <ul>
   <li>fork the repo to your github account</li>
